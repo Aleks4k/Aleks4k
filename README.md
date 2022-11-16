@@ -12,7 +12,8 @@
 
 ```javascript
 const aleks4k = {
-  code: [Javascript, HTML, CSS, Java, Python, Pawn, C, LUA]
+  code: [Javascript, HTML, CSS, Java, Python, Pawn, C, LUA],
+  unfinishedProjects: []
 }
 ```
 ---
