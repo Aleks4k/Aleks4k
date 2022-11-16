@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hi, I'm Aleksa Čavić! <img src="assets/pc.png" width="50"></h2>
+<img align='right' src="assets/me.png" width="230">
+<p><em>Student in <a href="https://singidunum.ac.rs/upis/study-programme/informatika-i-racunarstvo">Singidunum University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+Check my <a href="https://aleks4k.github.io/portfolio/">portfolio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Aleks4k/Aleks4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: aleksa-cavic](https://img.shields.io/badge/-Aleksa_Čavić-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksa-cavic/)](https://www.linkedin.com/in/aleksa-cavic/)
+[![GitHub Aleks4k](https://img.shields.io/github/followers/Aleks4k?label=follow&style=social)](https://github.com/Aleks4k)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Something more...  
+
+```javascript
+const aleks4k = {
+  code: [Javascript, HTML, CSS, Java, Python, Pawn, C, LUA]
+}
+```
+---
