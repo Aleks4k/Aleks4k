@@ -13,7 +13,7 @@ Studying in <a href="https://singidunum.ac.rs/upis/study-programme/informatika-i
 
 ```javascript
 const aleks4k = {
-  code: [Javascript, HTML, CSS, Java, Python, Pawn, C, LUA, C#, VB, SQL],
+  code: [Javascript, HTML, CSS, Java, Python, Pawn, C, LUA, C#, VB, SQL, Typescript],
   unfinishedProjects: []
 }
 ```
