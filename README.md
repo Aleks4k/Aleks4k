@@ -34,6 +34,7 @@
 - **TypeScript**
 - **Python**
 - **SQL**
+- Kotlin
 - C
 - Lua
 - Clojure
@@ -51,6 +52,8 @@
 - **Spring**
 - **Bootstrap**
 - **jQuery**
+- **Unity**
+- **Android Studio**
 
 ### Databases & Platforms
 - **SQL Server**
