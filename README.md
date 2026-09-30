@@ -20,7 +20,7 @@
 - Medior Software Developer at **Generali Srbija**
 - Experienced in building and maintaining **enterprise software solutions**
 - Focused on **backend** and **full-stack development**
-- Currently pursuing an **MSc in Software Engineering and Artificial Intelligence**
+- Holds an **MSc in Software Engineering and Artificial Intelligence** from the **Faculty of Organizational Sciences**
 - Interested in building clean, scalable, and reliable software
 
 ---
@@ -70,6 +70,7 @@
 const aleksa = {
   role: "Medior Software Developer",
   company: "Generali Srbija",
+  education: "MSc, Software Engineering and Artificial Intelligence (FON)",
   focus: ["Backend Development", "Full-Stack Development", "Enterprise Applications"],
   coreStack: ["C#", ".NET", "ASP.NET Core", "Angular", "TypeScript", "SQL Server", "Blazor"],
   interests: ["Software Engineering", "Artificial Intelligence"]
@@ -79,7 +80,7 @@ const aleksa = {
 ## Education
 
 - **MSc, Software Engineering and Artificial Intelligence**  
-  Faculty of Organizational Sciences
+  Faculty of Organizational Sciences, University of Belgrade
 
 - **BSc, Computer Science**  
   Singidunum University
