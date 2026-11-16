@@ -89,6 +89,5 @@ const aleksa = {
 
 ## Links
 
-- **Portfolio:** [aleks4k.github.io/portfolio](https://aleks4k.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/aleksa-cavic](https://www.linkedin.com/in/aleksa-cavic/)
 - **GitHub:** [github.com/Aleks4k](https://github.com/Aleks4k)
